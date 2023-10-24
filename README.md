@@ -39,8 +39,14 @@ I'm dedicated Full-Stack Developer, enthusiastic Content Creator, and aspiring M
 ### 📬 Connect with me:
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Dave Gray | Youtube" height="30" width="40" />][youtube]
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dave Gray | Twitter" height="30" width="40" />][twitter]
+<br/>
+#
 
+### 📊 Stats
 
+![Wali's GitHub stats](https://github-readme-stats.vercel.app/api?username=walifile&show_icons=true&theme=gruvbox)
+
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=walifile&theme=gruvbox&border_radius=4.5) 
 <br />
 <br />
 
