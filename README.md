@@ -46,7 +46,7 @@ I'm dedicated Full-Stack Developer, enthusiastic Content Creator, and aspiring M
 
 ![Wali's GitHub stats](https://github-readme-stats.vercel.app/api?username=walifile&show_icons=true&theme=gruvbox)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=walifile&theme=gruvbox&border_radius=4.5) 
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=walifile&theme=gruvbox&border_radius=4.5)  -->
 <br />
 <br />
 
