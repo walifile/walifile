@@ -42,6 +42,8 @@ I'm dedicated Full-Stack Developer, enthusiastic Content Creator, and aspiring M
 [<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wali ahmad | Instagram" height="30" width="40" />][instagram]
 
 <br/>
+
+
 #
 
 ### 📊 Stats
