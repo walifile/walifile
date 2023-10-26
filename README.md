@@ -37,8 +37,10 @@ I'm dedicated Full-Stack Developer, enthusiastic Content Creator, and aspiring M
 
 
 ### 📬 Connect with me:
-[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Dave Gray | Youtube" height="30" width="40" />][youtube]
-[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Dave Gray | Twitter" height="30" width="40" />][twitter]
+[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="wali ahmad | Youtube" height="30" width="40" />][youtube]
+[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="wali ahmad | Twitter" height="30" width="40" />][twitter]
+[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="wali ahmad | Instagram" height="30" width="40" />][instagram]
+
 <br/>
 #
 
@@ -52,3 +54,4 @@ I'm dedicated Full-Stack Developer, enthusiastic Content Creator, and aspiring M
 
 [twitter]: https://twitter.com/__waliahmad
 [youtube]: https://www.youtube.com/@codingcirculate
+[instagram]: https://www.instagram.com/waliahmad.1/
