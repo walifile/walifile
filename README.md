@@ -45,11 +45,10 @@ I'm dedicated Full-Stack Developer, enthusiastic Content Creator, and aspiring M
 
 ### 📊 Stats
 
-![Wali's GitHub stats](https://github-readme-stats.vercel.app/api?username=walifile&show_icons=true&theme=gruvbox)
+![walifile's Stats](https://github-readme-stats.vercel.app/api?username=walifile&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![walifile's Streak](https://github-readme-streak-stats.herokuapp.com/?user=walifile&theme=tokyonight&hide_border=false)
 
-<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=walifile&theme=gruvbox&border_radius=4.5)  
-[<img align="left" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="wali ahmad | LinkedIn" height="30" width="40" />][linkedin]
--->
+
 <br />
 <br />
 
