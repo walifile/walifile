@@ -45,7 +45,7 @@ I'm dedicated Full-Stack Developer, enthusiastic Content Creator, and aspiring M
 
 ### 📊 Stats
 
-![walifile's Stats](https://github-readme-stats.vercel.app/api?username=walifile&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![walifile's Stats](https://github-readme-stats-eta-green.vercel.app/api?username=walifile&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 ![walifile's Streak](https://github-readme-streak-stats.herokuapp.com/?user=walifile&theme=tokyonight&hide_border=false)
 
 
