@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Content Creator)`**
 
-I'm dedicated Full-Stack Developer, enthusiastic Content Creator, and aspiring Mentor. My coding journey is a pursuit of becoming a proficient developer and mentor. I thrive on crafting innovative projects, solving real-world problems, and sharing my knowledge on my "[Coding Circulate][youtube]" YouTube channel. A lifelong learner, my primary goal is to grow as both a developer and a guiding figure to others on their own journeys. With substantial experience in coding, I specialize in developing and optimizing software products, always upholding the importance of clean and well-documented code. Collaboration is at the core of my mission, as I'm passionate about supporting others and advancing my own skills. Let's connect and work together to foster collective progress! 🌟
+I'm a Full-Stack Developer, handling both the visible parts of websites and the technical stuff behind them. Sharing coding tips on my "[Coding Circulate][youtube]" YouTube channel is what I love. My goal is to become a coding expert and help others. I enjoy making projects that solve real problems and making my code easy to understand. Let's work together and make progress! 🌟
 
    <p align="left">
       <a href="https://www.youtube.com/@codingcirculate?sub_confirmation=1">
