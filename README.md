@@ -46,7 +46,7 @@ I'm a Full-Stack Developer, handling both the visible parts of websites and the 
 ### 📊 Stats
 
 
-![walifile's Stats](https://github-readme-stats-taupe-sigma.vercel.app/api?username=walifile&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![walifile's Stats](https://github-readme-stats-alpha-three-69.vercel.app/api?username=walifile&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
 <br/>
 
 ![walifile's Streak](https://github-readme-streak-stats.herokuapp.com/?user=walifile&theme=tokyonight&hide_border=false)
