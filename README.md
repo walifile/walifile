@@ -54,6 +54,17 @@ I'm a Full-Stack Developer, handling both the visible parts of websites and the 
 
 <br />
 
+### 🌟 What Clients Say About Me
+
+<p align="center">
+   <img src="/c1.png" alt="Testimonial 1" style="border-radius: 10px; margin: 10px;">
+   <img src="/c2.png" alt="Testimonial 2"  style="border-radius: 10px; margin: 10px;">
+   <img src="/c3.png" alt="Testimonial 3" style="border-radius: 10px; margin: 10px;">
+</p>
+
+<br/>
+<br/>
+
 [twitter]: https://twitter.com/__waliahmad
 [youtube]: https://www.youtube.com/@codingcirculate
 [instagram]: https://www.instagram.com/waliahmad.1/
